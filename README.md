@@ -32,10 +32,6 @@ Através de uma plataforma intuitiva e sigilosa, é possível registrar ocorrên
 - Interface completa da polícia  
 - Melhorias em notificações e rastreamento
 
-## 📽️ Demonstração do Projeto
-
-Vídeo com explicação do sistema e demonstração funcional:  
-[🔗 YouTube - Mulher Segura]()
 
 ## 📊 Relatório da Pesquisa com a Comunidade
 
