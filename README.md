@@ -4,7 +4,7 @@ Sistema web desenvolvido para auxiliar mulheres em situação de risco, com foco
 
 ## 🌐 Visão Geral
 
-O **SOS Mulher Segura** é uma solução digital pensada para oferecer agilidade e segurança às vítimas de violência doméstica.  
+O **Mulher Segura** é uma solução digital pensada para oferecer agilidade e segurança às vítimas de violência doméstica.  
 Através de uma plataforma intuitiva e sigilosa, é possível registrar ocorrências, anexar provas, acionar alertas com localização e acompanhar o andamento das denúncias.
 
 ## 🔒 Funcionalidades
