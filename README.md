@@ -1,4 +1,4 @@
-# 🚨 SOS Mulher Segura
+# Mulher Segura
 
 Sistema web desenvolvido para auxiliar mulheres em situação de risco, com foco no registro de denúncias, acionamento de alertas emergenciais e integração com contatos e autoridades.
 
